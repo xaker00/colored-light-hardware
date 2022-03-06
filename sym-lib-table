@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "FQP30N06L-ND")(type "Legacy")(uri "${KIPRJMOD}/FQP30N06L-ND.lib")(options "")(descr ""))
+  (lib (name "RUEF090-AP")(type "KiCad")(uri "${KIPRJMOD}/RUEF090-AP.kicad_sym")(options "")(descr ""))
+  (lib (name "6400BG")(type "Legacy")(uri "${KIPRJMOD}/6400BG.lib")(options "")(descr ""))
+)
