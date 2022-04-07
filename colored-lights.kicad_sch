@@ -794,6 +794,12 @@
     (path "/65765178-13a1-4c5d-baaf-3263799a76a6/030e8c66-9854-4122-8515-efbb79493506"
       (reference "#PWR07") (unit 1) (value "GND") (footprint "")
     )
+    (path "/65765178-13a1-4c5d-baaf-3263799a76a6/fe0cbb3c-aa17-4eee-bcfd-474e47039506"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/65765178-13a1-4c5d-baaf-3263799a76a6/32c2bb57-0102-476f-8fb3-341c7fb54560"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
     (path "/949795c2-b0d2-4d5b-a976-0902c42d23e4/10a9dcfb-1b35-404b-b0ea-295e051f5f08"
       (reference "D301") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric")
     )
@@ -928,6 +934,18 @@
     )
     (path "/65765178-13a1-4c5d-baaf-3263799a76a6/30e9ae8f-3478-4caf-af21-3a5ac90857b5"
       (reference "J17") (unit 1) (value "Conn_01x06") (footprint "Library:1814605")
+    )
+    (path "/65765178-13a1-4c5d-baaf-3263799a76a6/77eb857c-68a8-44c0-9fd9-5696b0ca7ab0"
+      (reference "J18") (unit 1) (value "24V") (footprint "Library:1212")
+    )
+    (path "/65765178-13a1-4c5d-baaf-3263799a76a6/91bb8b47-fc6f-4d4f-8ce3-2f186f15a2fe"
+      (reference "J19") (unit 1) (value "GND") (footprint "Library:1212")
+    )
+    (path "/65765178-13a1-4c5d-baaf-3263799a76a6/64b5398f-dc77-40b4-a17b-584bda1b6841"
+      (reference "J20") (unit 1) (value "24V") (footprint "Library:1212")
+    )
+    (path "/65765178-13a1-4c5d-baaf-3263799a76a6/a79e1ddc-fa63-462d-933f-33f388e12f06"
+      (reference "J21") (unit 1) (value "GND") (footprint "Library:1212")
     )
     (path "/c5f897e2-09cf-4f35-a17a-84049b90b7bb"
       (reference "Q1") (unit 1) (value "Si4122DY") (footprint "Library:SOIC-8_3.9x4.9mm_P1.27mm transistor")
