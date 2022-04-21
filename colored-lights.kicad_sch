@@ -972,16 +972,16 @@
       (reference "R4") (unit 1) (value "10K") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/949795c2-b0d2-4d5b-a976-0902c42d23e4/d85fd9ab-8f12-4186-a9a9-d04a08b81c33"
-      (reference "R301") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R301") (unit 1) (value "2k") (footprint "Resistor_SMD:R_2010_5025Metric")
     )
     (path "/949795c2-b0d2-4d5b-a976-0902c42d23e4/3f0be573-964a-48da-9751-4ae8a73f5631"
-      (reference "R302") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R302") (unit 1) (value "2k") (footprint "Resistor_SMD:R_2010_5025Metric")
     )
     (path "/949795c2-b0d2-4d5b-a976-0902c42d23e4/7296ad49-cd5c-46a6-9887-dad78b13a5a3"
-      (reference "R303") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R303") (unit 1) (value "2k") (footprint "Resistor_SMD:R_2010_5025Metric")
     )
     (path "/949795c2-b0d2-4d5b-a976-0902c42d23e4/fb066784-5308-40e8-ad30-480833d7355a"
-      (reference "R304") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R304") (unit 1) (value "2k") (footprint "Resistor_SMD:R_2010_5025Metric")
     )
   )
 )
