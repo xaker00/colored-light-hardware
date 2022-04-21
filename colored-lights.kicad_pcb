@@ -3372,7 +3372,7 @@
   (gr_text "GND" (at 139.100666 109.474) (layer "F.SilkS") (tstamp 8b6ad751-ba21-4699-9b02-7ffa3f213af1)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "EBEN-EZER ENGINEEING" (at 90.805 125.095) (layer "F.SilkS") (tstamp 92ff4797-ba89-46c8-b3a8-8260d960e660)
+  (gr_text "EBEN-EZER ENGINEERING" (at 90.805 125.095) (layer "F.SilkS") (tstamp 92ff4797-ba89-46c8-b3a8-8260d960e660)
     (effects (font (size 2 2) (thickness 0.3)) (justify left))
   )
   (gr_text "+24V" (at 139.097333 94.742) (layer "F.SilkS") (tstamp 99bd29ae-2f73-40c8-b88c-1b0f85743ebc)
